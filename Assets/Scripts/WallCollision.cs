@@ -40,9 +40,6 @@ public class WallCollision : MonoBehaviour
 
 
         GetComponent<Collider>().isTrigger = true;
-
-
-
     }
 
     // Update is called once per frame
